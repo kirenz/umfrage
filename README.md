@@ -1,7 +1,7 @@
 # umfrage
 
 
-├── README.md          <- The top-level README for developers using this project.
+├── README.md          <- The top-level README for people using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
 │   ├── interim        <- Intermediate data that has been transformed.
