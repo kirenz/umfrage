@@ -1,8 +1,18 @@
 # Umfrage
 
-- Download this repository as zip-file
+- Speichern Sie dieses Repository als ZIP-Datei auf Ihrem Rechner.
 
-## Structure of this repo
+- Entpacken Sie die Datei in einen Ordner Ihrer Wahl.
+
+- Öffnen Sie Visual Studio Code und wählen Sie oben links in der Aktivitätsleiste  „Explorer“ aus.
+
+- Navigieren Sie zu dem blauen Menüpunkt "Open Folder" und wählen Sie den Ordner "umfrage" aus. Dieser Ordner ist nun Ihr Projektverzeichnis.
+
+- Öffnen Sie im Explorer den Ordner "notebooks" und öffnen Sie die Datei `01-data-preparation.ipynb`
+
+## Inhalte des Ordners
+
+Projektstruktur (nicht alle Ordner enthalten Dateien):
 
 
 ├── README.md          <- The top-level README for people using this project.
