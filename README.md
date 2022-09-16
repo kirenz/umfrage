@@ -1,4 +1,8 @@
-# umfrage
+# Umfrage
+
+- Download this repository as zip-file
+
+## Structure of this repo
 
 
 ├── README.md          <- The top-level README for people using this project.
