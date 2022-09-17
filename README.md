@@ -15,8 +15,6 @@
 
 ## Projektstruktur
 
-*Die Projektstruktur orientiert sich an dem von DrivenData bereitgestellten [Cookiecutter Data Science-Template](https://drivendata.github.io/cookiecutter-data-science/)*
-
 Für dieses Projekt sind nur die folgenden Ordner relevant:  
 
 - data
@@ -60,3 +58,5 @@ Für dieses Projekt sind nur die folgenden Ordner relevant:
     └── visualization  <- Scripts to create exploratory and results oriented visualizations
         └── visualize.py
 ```    
+
+*Die Projektstruktur orientiert sich an dem von DrivenData bereitgestellten [Cookiecutter Data Science-Template](https://drivendata.github.io/cookiecutter-data-science/)*
