@@ -15,10 +15,10 @@
 
 ## Projektstruktur
 
-Für dieses Projekt sind nur die folgenden Ordner relevant:  
+Für dieses Projekt sind nur die folgenden beiden Ordner relevant:  
 
-- data
-- notebooks
+- **data**
+- **notebooks**
 
 
 ```nohighlight
