@@ -20,7 +20,7 @@ Für dieses Projekt sind nur die folgenden Ordner relevant:
 - notebooks
 
 
-
+```nohighlight
 ├── README.md          <- The top-level README for people using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
@@ -56,3 +56,4 @@ Für dieses Projekt sind nur die folgenden Ordner relevant:
     │
     └── visualization  <- Scripts to create exploratory and results oriented visualizations
         └── visualize.py
+```    
