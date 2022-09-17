@@ -2,6 +2,8 @@
 
 - Speichern Sie dieses Repository als ZIP-Datei auf Ihrem Rechner.
 
+![](references/img/github.png)
+
 - Entpacken Sie die Datei in einen Ordner Ihrer Wahl.
 
 - Öffnen Sie Visual Studio Code und wählen Sie oben links in der Aktivitätsleiste  „Explorer“ aus.
