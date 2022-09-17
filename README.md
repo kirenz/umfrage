@@ -32,7 +32,7 @@ Für dieses Projekt sind nur die folgenden Ordner relevant:
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `01-data-preparation.ipynb`.
+│                         `01-JK-data-preparation.ipynb`.
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
