@@ -11,7 +11,7 @@
 ![](references/img/vscode.png)
 
 
-- Öffnen Sie im Explorer den Ordner "notebooks" und öffnen Sie die Datei `01-data-preparation.ipynb`
+- Öffnen Sie im Explorer den Ordner "notebooks" und öffnen Sie die Datei `01-JK-data-preparation.ipynb`
 
 ## Projektstruktur
 
