@@ -10,6 +10,9 @@
 
 - Navigieren Sie zu dem blauen Menüpunkt "Open Folder" und wählen Sie den Ordner "umfrage" aus. Dieser Ordner ist nun Ihr Projektverzeichnis.
 
+![](references/img/vscode.png)
+
+
 - Öffnen Sie im Explorer den Ordner "notebooks" und öffnen Sie die Datei `01-data-preparation.ipynb`
 
 ## Projektstruktur
