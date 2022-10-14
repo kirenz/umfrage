@@ -41,6 +41,6 @@ Für dieses Projekt sind nur die folgenden beiden Ordner relevant:
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g. a `environment.yml` file
+```
 
-
-*Die Projektstruktur orientiert sich an dem von DrivenData bereitgestellten [Cookiecutter Data Science-Template](https://drivendata.github.io/cookiecutter-data-science/)*
+Die Projektstruktur orientiert sich an dem von DrivenData bereitgestellten [Cookiecutter Data Science-Template](https://drivendata.github.io/cookiecutter-data-science/)
