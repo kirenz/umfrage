@@ -1,6 +1,9 @@
 # Umfrage
 
-- Speichern Sie dieses Repository als ZIP-Datei auf Ihrem Rechner.
+- Speichern Sie dieses Repository als ZIP-Datei auf Ihrem Rechner:
+  - Klicken Sie auf den grünen Button `Code`
+  - Wählen Sie die Option "Download ZIP"
+  
 
 ![](references/img/github.png)
 
