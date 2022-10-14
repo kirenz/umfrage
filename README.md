@@ -1,11 +1,20 @@
 # Umfrage
 
+---
+
+## Download Repo
+
 - Speichern Sie dieses Repository als ZIP-Datei auf Ihrem Rechner:
   - Klicken Sie auf den grünen Button `Code`
   - Wählen Sie die Option "Download ZIP"
   
 
 ![](references/img/github.png)
+
+
+---
+
+## Visual Studio Code
 
 - Entpacken Sie die Datei in einen Ordner Ihrer Wahl.
 
@@ -15,6 +24,7 @@
 
 
 - Öffnen Sie im Explorer den Ordner "notebooks" und öffnen Sie die Datei `01-JK-data-preparation.ipynb`
+
 
 ## Projektstruktur
 
