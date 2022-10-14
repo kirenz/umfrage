@@ -26,6 +26,9 @@
 - Öffnen Sie im Explorer den Ordner "notebooks" und öffnen Sie die Datei `01-JK-data-preparation.ipynb`
 
 
+
+---
+
 ## Projektstruktur
 
 Für dieses Projekt sind nur die folgenden beiden Ordner relevant:  
