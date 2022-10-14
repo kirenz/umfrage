@@ -19,6 +19,7 @@ Für dieses Projekt sind nur die folgenden beiden Ordner relevant:
 
 - **data**
 - **notebooks**
+- **references**
 
 
 ```nohighlight
