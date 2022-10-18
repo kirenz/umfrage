@@ -31,7 +31,7 @@
 
 ## Projektstruktur
 
-Für dieses Projekt sind nur die folgenden beiden Ordner relevant:  
+Für dieses Projekt sind nur diese Ordner relevant:  
 
 - **data**
 - **notebooks**
